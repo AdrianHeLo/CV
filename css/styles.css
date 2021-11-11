@@ -1,0 +1,139 @@
+/*☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
+☠☠☠☠☠☠☠ Etiquetas ☠☠☠☠☠☠☠☠
+☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠*/
+body{
+    margin: 0;
+    text-align: center;
+    
+}
+h1{
+    width: 20%;
+    
+    font-size: 100px;
+    color: blanchedalmond;
+    margin: 0px auto;
+    position: relative;
+    font-family: 'Great Vibes', cursive;
+}
+
+hr{
+    width: 10%;
+    border-top: 20px dotted #66bfbf;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+}
+
+/*☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
+☠☠☠☠☠☠☠ Clases ☠☠☠☠☠☠☠☠
+☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠*/
+.top-container{
+    background-color: #001120;
+    height: 669px;
+    text-align: center;
+}
+
+ .middle-container{
+    background-color: blanchedalmond;
+ }
+
+ .bottom-container{
+    background-color: #001120;
+ }
+
+ .p-top-container{
+    width: 20%;
+    top: -275px;
+    font-size: 50px;
+    color: blanchedalmond;
+    margin: 0px auto;
+    position: relative;
+    font-family: 'VT323', monospace;
+ }
+
+ .h2-skills{
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+ }
+
+ .skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+ }
+
+ .h3-skills-row{
+    font-size: 40px;
+}
+
+.get-in-touch{
+    font-size: 50px;
+    font-family: 'VT323', monospace;
+    margin: 0 auto;
+}
+
+ .img-profile{
+     height: 200px;
+ }
+
+ .img-code{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+    position: relative;
+    bottom: 60px;
+}
+
+.img-robot{
+    width: 25%;
+    bottom: 100px;
+    float: left;
+    padding-right: 30px;
+    position: relative;
+}
+
+.footer-link{
+    color: blanchedalmond;
+}
+
+.footer-p{
+    color: blanchedalmond;
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+/*☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
+☠☠☠☠☠☠☠ #ID ☠☠☠☠☠☠☠☠
+☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠*/
+#planet{
+    margin: 0px auto;
+    top:-250px;
+    position: relative;
+    height: 300px;
+}
+
+#rocket{
+    height: 150px;
+    top: -200px;
+    margin: 0px auto;
+    position: relative;
+    right: 300px;
+}
+
+#ovni{
+    height: 150px;
+    width: 150px;
+    top: -200px;
+    margin: 0px auto;
+    position: relative;
+    left: 250px;
+}
